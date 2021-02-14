@@ -1,0 +1,2 @@
+class AcesController < ApplicationController
+end
